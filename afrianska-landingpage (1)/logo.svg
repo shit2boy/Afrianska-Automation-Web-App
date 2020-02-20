@@ -1,0 +1,26 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" fill="#E5E5E5"/>
+<g id="homepage">
+
+<g id="Hero">
+<rect id="Rectangle" opacity="0.2" x="-83" y="-40" width="1366" height="768" fill="url(#paint0_linear)"/>
+</g>
+<g id="Navigation">
+<g id="logo">
+<g id="logo_2">
+<g id="Group">
+<circle id="Ellipse" cx="16" cy="24" r="16" fill="#316099"/>
+<circle id="Ellipse_2" cx="32" cy="24" r="15" fill="white" stroke="#316099" stroke-width="2"/>
+<path id="A" d="M39.3 30L34.38 16H30.96L26.06 30H29.04L29.88 27.48H35.46L36.3 30H39.3ZM32.68 19.18L34.6 24.9H30.76L32.68 19.18Z" fill="#316099"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="600" y1="728" x2="600" y2="489" gradientUnits="userSpaceOnUse">
+<stop offset="0.283925" stop-color="#98C3E8"/>
+<stop offset="1" stop-color="#98C3E8" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

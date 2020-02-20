@@ -1,0 +1,34 @@
+<svg width="1200" height="48" viewBox="0 0 1200 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="48" fill="#E5E5E5"/>
+<g id="homepage">
+<rect x="-83" y="-40" width="1366" height="5161" fill="white"/>
+<g id="Hero">
+<rect id="Rectangle" opacity="0.2" x="-83" y="-40" width="1366" height="768" fill="url(#paint0_linear)"/>
+<g id="illustration">
+<g id="shadown_illustration">
+<path id="Vector" opacity="0.4" d="M1196.61 124.41C1051.83 55.5175 987.969 243.909 888.138 274.906C788.394 320.253 692.215 267.176 632.828 312.674C538.694 384.794 580.01 510.963 640.274 564.05C726.694 640.18 880.272 612.78 1039.01 530.462C1237.89 427.329 1323.55 184.817 1196.61 124.41Z" fill="#98C3E8"/>
+</g>
+</g>
+</g>
+<g id="Navigation">
+<g id="ic_menu_48px">
+<path id="Vector_2" d="M1172 32H1196V29.3333H1172V32ZM1172 25.3333H1196V22.6667H1172V25.3333ZM1172 16V18.6667H1196V16H1172Z" fill="#356EAD"/>
+</g>
+<g id="logo">
+<g id="logo_2">
+<g id="Group">
+<circle id="Ellipse" cx="16" cy="24" r="16" fill="#316099"/>
+<circle id="Ellipse_2" cx="32" cy="24" r="15" fill="white" stroke="#316099" stroke-width="2"/>
+<path id="A" d="M39.3 30L34.38 16H30.96L26.06 30H29.04L29.88 27.48H35.46L36.3 30H39.3ZM32.68 19.18L34.6 24.9H30.76L32.68 19.18Z" fill="#316099"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="600" y1="728" x2="600" y2="489" gradientUnits="userSpaceOnUse">
+<stop offset="0.283925" stop-color="#98C3E8"/>
+<stop offset="1" stop-color="#98C3E8" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
